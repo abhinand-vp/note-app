@@ -1,0 +1,29 @@
+.full_view{
+    width: 30%;
+    height: 80vh;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 20px;
+  }
+  
+  .full_view > h1 {
+    text-align: center;
+    margin: 10px 20px;
+  }
+  
+  .full_view > p {
+    padding: 10px 20px;
+  }
+
+  .nowted-title {
+    color: #FFF;
+    font-family: Kaushan Script;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .tox .tox-editor-container {
+    background-color: #ff0000 !important;
+  }
